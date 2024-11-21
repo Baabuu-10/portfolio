@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Muriidi Turaab",
+    "link": "https://twitter.com/Philosophy_Call",
+    "nickname": "@app Developer",
+    "img": "http://127.0.0.1:5500/portfolio//src/assets/me.jpg",
+    "desc": "  It's really great how easy your websites are to update and manage I wanted to reach out to see if you'd be interested results in the time we've been working together, and I wanted to reach out to see if you'd be interested"
+  },
+
+  {
+    "id": 2,
+    "name": "Muriidi Mohamed",
+    "link": "https://twitter.com/Philosophy_Call",
+    "nickname": "Baabuu Lahar",
+    "img": "http://127.0.0.1:5500/portfolio//src/assets/cover.jpg",
+    "desc": "  It's really great how easy your websites are to update and manage I wanted to reach out to see if you'd be interested results in the time we've been working together, and I wanted to reach out to see if you'd be interested"
+  },
+  {
+    "id": 3,
+    "name": "Eleftheria Batsou ",
+    "nickname": "@BatsouElef",
+    "img": "https://pbs.twimg.com/profile_images/1478258494100938755/_nJrSQTx_400x400.jpg",
+    "link": "https://twitter.com/BatsouElef/status/1483806953801277441?s=20",
+    "desc": "You've achieved fantastic results in the time we've been working together, and I wanted to reach out to see if you'd be interested results in the time we've been working together, and I wanted to reach out to see if you'd be interested"
+  },
+  {
+    "id": 4,
+    "name": "Eleftheria Batsou ",
+    "nickname": "@BatsouElef",
+    "img": "https://pbs.twimg.com/profile_images/1478258494100938755/_nJrSQTx_400x400.jpg",
+    "link": "https://twitter.com/GurpriyaSidhu",
+    "desc": "You've achieved fantastic results in the time we've been working together, and I wanted to reach out to see if you'd be interested results in the time we've been working together, and I wanted to reach out to see if you'd be interested"
+  }
+]
+
+
