@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Baabuu-10/portfolio/static/css/main.2fe94fe1.css",
+    "main.js": "/Baabuu-10/portfolio/static/js/main.e5625cfc.js",
+    "static/media/cover.jpg": "/Baabuu-10/portfolio/static/media/cover.1fc7f5dc190965439250.jpg",
+    "static/media/logo.png": "/Baabuu-10/portfolio/static/media/logo.76359890275c4e547c84.png",
+    "static/media/me.jpg": "/Baabuu-10/portfolio/static/media/me.a1f9974d8221e1973dd1.jpg",
+    "index.html": "/Baabuu-10/portfolio/index.html",
+    "main.2fe94fe1.css.map": "/Baabuu-10/portfolio/static/css/main.2fe94fe1.css.map",
+    "main.e5625cfc.js.map": "/Baabuu-10/portfolio/static/js/main.e5625cfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe94fe1.css",
+    "static/js/main.e5625cfc.js"
+  ]
+}
